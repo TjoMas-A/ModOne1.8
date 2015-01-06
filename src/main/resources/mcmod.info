@@ -1,0 +1,16 @@
+[
+{
+  "modid": “modone1.8”,
+  "name": “Mod One for 1.8”,
+  "description": “Having a go at porting what little there is.“,
+  "version": “1.0”,
+  "mcversion": “1.8”,
+  "url": "",
+  "updateUrl": "",
+  "authorList": [“TjoMas_A”],
+  "credits": “Anyone who helped”,
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
