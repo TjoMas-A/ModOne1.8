@@ -17,12 +17,12 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.8-1.0"
-group= "com.tjomas_a.modone1.8" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "modone1.8"
+version = "1.modone-1.0"
+group= "com.tjomas_a.modone1.modone" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "modone1.modone"
 
 minecraft {
-    version = "1.8-11.14.0.1281-1.8"
+    version = "1.modone-11.14.0.1281-1.modone"
     runDir = "eclipse"
     
     // the mappings can be changed at any time, and must be in the following format.
@@ -40,7 +40,7 @@ dependencies {
     //compile "some.group:artifact:version"
       
     // real examples
-    //compile 'com.mod-buildcraft:buildcraft:6.0.8:dev'  // adds buildcraft to the dev env
+    //compile 'com.mod-buildcraft:buildcraft:6.0.modone:dev'  // adds buildcraft to the dev env
     //compile 'com.googlecode.efficient-java-matrix-library:ejml:0.24' // adds ejml to the dev env
 
     // for more info...
